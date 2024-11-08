@@ -151,11 +151,8 @@ CMakeFiles/CrossPlatformLogger.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/mutex \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/std_mutex.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/unique_lock.h \
- C:/msys64/ucrt64/include/unistd.h C:/msys64/ucrt64/include/io.h \
- C:/msys64/ucrt64/include/string.h \
- C:/msys64/ucrt64/include/sec_api/string_s.h \
- C:/msys64/ucrt64/include/getopt.h C:/msys64/ucrt64/include/windows.h \
- C:/msys64/ucrt64/include/sdkddkver.h C:/msys64/ucrt64/include/excpt.h \
+ C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/sdkddkver.h \
+ C:/msys64/ucrt64/include/excpt.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
  C:/msys64/ucrt64/include/stdarg.h \
  C:/msys64/ucrt64/include/_mingw_stdarg.h \
@@ -169,6 +166,8 @@ CMakeFiles/CrossPlatformLogger.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/apiset.h \
  C:/msys64/ucrt64/include/psdk_inc/intrin-impl.h \
  C:/msys64/ucrt64/include/basetsd.h C:/msys64/ucrt64/include/guiddef.h \
+ C:/msys64/ucrt64/include/string.h \
+ C:/msys64/ucrt64/include/sec_api/string_s.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/x86intrin.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/x86gprintrin.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/ia32intrin.h \

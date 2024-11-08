@@ -7,13 +7,18 @@
 #include <ctime>
 #include <string>
 #include <cstdlib>
-#include <unistd.h>
-#include <windows.h>
 
+#ifdef _WIN32
+    #include <windows.h>
+    #define IS_WINDOWS true
+    #define getpid _getpid
+#else
+    #include <unistd.h>
+    #define IS_WINDOWS false
+#endif
 
 std::ofstream log_file;
 std::mutex log_mutex;
-
 
 std::atomic<int> counter(0);
 std::atomic<bool> is_copy_running(false);
@@ -27,7 +32,7 @@ std::string get_current_time_string() {
     char buf[64];
     std::strftime(buf, sizeof(buf), "%Y-%m-%d %H:%M:%S", &time_tm);
     auto milliseconds = std::chrono::duration_cast<std::chrono::milliseconds>(now.time_since_epoch()) % 1000;
-    sprintf(buf + strlen(buf), ":%03d", (int)milliseconds.count());
+    sprintf(buf + strlen(buf), ":%03d", static_cast<int>(milliseconds.count()));
     return std::string(buf);
 }
 
@@ -47,15 +52,13 @@ void timer_increment() {
 
 
 void start_child_processes() {
-    if (is_copy_running) {
+    if (is_copy_running.exchange(true)) {
         log_message("Copy already running, skipping new process.");
         return;
     }
 
-    is_copy_running = true;
 
-
-    std::thread([&]() {
+    std::thread([]() {
         int pid = getpid();
         log_message("Child process 1 started: " + std::to_string(pid));
         counter.fetch_add(10, std::memory_order_relaxed);
@@ -63,13 +66,13 @@ void start_child_processes() {
         is_copy_running = false;
     }).detach();
 
-
-    std::thread([&]() {
+ 
+    std::thread([]() {
         int pid = getpid();
         log_message("Child process 2 started: " + std::to_string(pid));
-        counter.fetch_add(counter.load() * 2 - counter.load(), std::memory_order_relaxed);
+        counter.fetch_add(counter.load(std::memory_order_relaxed) * 2 - counter.load(), std::memory_order_relaxed);
         std::this_thread::sleep_for(std::chrono::seconds(2));
-        counter.fetch_add(counter.load() / 2 - counter.load(), std::memory_order_relaxed);
+        counter.fetch_add(counter.load(std::memory_order_relaxed) / 2 - counter.load(), std::memory_order_relaxed);
         log_message("Child process 2 finished: " + std::to_string(pid));
         is_copy_running = false;
     }).detach();
@@ -96,7 +99,7 @@ void handle_user_input() {
         } else {
             try {
                 int new_value = std::stoi(input);
-                counter.store(new_value);
+                counter.store(new_value, std::memory_order_relaxed);
             } catch (std::exception& e) {
                 std::cout << "Invalid input. Please enter an integer." << std::endl;
             }
@@ -105,32 +108,24 @@ void handle_user_input() {
 }
 
 int main(int argc, char* argv[]) {
-
     log_file.open("program_log.txt", std::ios::out | std::ios::app);
     if (!log_file.is_open()) {
         std::cerr << "Failed to open log file." << std::endl;
         return 1;
     }
 
-
     int pid = getpid();
     log_message("Program started with PID: " + std::to_string(pid));
 
 
     std::thread timer_thread(timer_increment);
-
-
     std::thread log_thread(log_status);
-
-
     std::thread copy_thread([&]() {
         while (is_running) {
             std::this_thread::sleep_for(std::chrono::seconds(3));
             start_child_processes();
         }
     });
-
-
     std::thread user_input_thread(handle_user_input);
 
 
@@ -139,8 +134,6 @@ int main(int argc, char* argv[]) {
     copy_thread.join();
     user_input_thread.join();
 
-
     log_file.close();
-
     return 0;
 }

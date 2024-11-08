@@ -10,9 +10,9 @@ add_executable(CrossPlatformLogger main.cpp)
 
 
 if(WIN32)
-    target_compile_definitions(CrossPlatformLogger PRIVATE IS_WINDOWS=1)
+    add_definitions(-DIS_WINDOWS)
 else()
-    target_compile_definitions(CrossPlatformLogger PRIVATE IS_WINDOWS=0)
+    add_definitions(-D_POSIX_C_SOURCE=200809L)
 endif()
 
 

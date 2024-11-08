@@ -1,0 +1,322 @@
+2024-11-08 06:49:50:413 Program started with PID: 11148
+2024-11-08 06:49:51:418 Main process ID: 11148 Counter: 3
+2024-11-08 06:49:52:419 Main process ID: 11148 Counter: 6
+2024-11-08 06:49:53:420 Main process ID: 11148 Counter: 9
+2024-11-08 06:49:53:420 Child process 1 started: 11148
+2024-11-08 06:49:53:420 Child process 1 finished: 11148
+2024-11-08 06:49:53:420 Child process 2 started: 11148
+2024-11-08 06:49:54:432 Main process ID: 11148 Counter: 41
+2024-11-08 06:49:55:429 Child process 2 finished: 11148
+2024-11-08 06:49:55:445 Main process ID: 11148 Counter: 7
+2024-11-08 06:49:56:428 Child process 1 started: 11148
+2024-11-08 06:49:56:429 Child process 1 finished: 11148
+2024-11-08 06:49:56:429 Child process 2 started: 11148
+2024-11-08 06:49:56:459 Main process ID: 11148 Counter: 40
+2024-11-08 06:49:57:472 Main process ID: 11148 Counter: 102
+2024-11-08 06:49:58:433 Child process 2 finished: 11148
+2024-11-08 06:49:58:481 Main process ID: 11148 Counter: 52
+2024-11-08 06:49:59:434 Child process 1 started: 11148
+2024-11-08 06:49:59:434 Child process 1 finished: 11148
+2024-11-08 06:49:59:434 Child process 2 started: 11148
+2024-11-08 06:49:59:496 Main process ID: 11148 Counter: 130
+2024-11-08 06:50:00:499 Main process ID: 11148 Counter: 134
+2024-11-08 06:50:01:437 Child process 2 finished: 11148
+2024-11-08 06:50:01:501 Main process ID: 11148 Counter: 68
+2024-11-08 06:50:02:444 Child process 1 started: 11148
+2024-11-08 06:50:02:445 Child process 1 finished: 11148
+2024-11-08 06:50:02:445 Child process 2 started: 11148
+2024-11-08 06:50:02:501 Main process ID: 11148 Counter: 162
+2024-11-08 06:50:03:501 Main process ID: 11148 Counter: 165
+2024-11-08 06:50:04:445 Child process 2 finished: 11148
+2024-11-08 06:50:04:507 Main process ID: 11148 Counter: 84
+2024-11-08 06:50:05:456 Child process 1 started: 11148
+2024-11-08 06:50:05:456 Child process 1 finished: 11148
+2024-11-08 06:50:05:457 Child process 2 started: 11148
+2024-11-08 06:50:05:520 Main process ID: 11148 Counter: 195
+2024-11-08 06:50:06:524 Main process ID: 11148 Counter: 198
+2024-11-08 06:50:07:464 Child process 2 finished: 11148
+2024-11-08 06:50:07:544 Main process ID: 11148 Counter: 100
+2024-11-08 06:50:08:465 Child process 1 started: 11148
+2024-11-08 06:50:08:465 Child process 1 finished: 11148
+2024-11-08 06:50:08:465 Child process 2 started: 11148
+2024-11-08 06:50:08:544 Main process ID: 11148 Counter: 226
+2024-11-08 06:50:09:564 Main process ID: 11148 Counter: 229
+2024-11-08 06:50:10:484 Child process 2 finished: 11148
+2024-11-08 06:50:10:564 Main process ID: 11148 Counter: 116
+2024-11-08 06:50:11:484 Child process 1 started: 11148
+2024-11-08 06:50:11:485 Child process 1 finished: 11148
+2024-11-08 06:50:11:485 Child process 2 started: 11148
+2024-11-08 06:50:11:584 Main process ID: 11148 Counter: 259
+2024-11-08 06:50:12:584 Main process ID: 11148 Counter: 262
+2024-11-08 06:50:13:503 Child process 2 finished: 11148
+2024-11-08 06:50:13:603 Main process ID: 11148 Counter: 132
+2024-11-08 06:50:14:489 Child process 1 started: 11148
+2024-11-08 06:50:14:489 Child process 1 finished: 11148
+2024-11-08 06:50:14:489 Child process 2 started: 11148
+2024-11-08 06:50:14:613 Main process ID: 11148 Counter: 290
+2024-11-08 06:50:15:618 Main process ID: 11148 Counter: 293
+2024-11-08 06:50:16:497 Child process 2 finished: 11148
+2024-11-08 06:50:16:622 Main process ID: 11148 Counter: 149
+2024-11-08 06:50:17:496 Child process 1 started: 11148
+2024-11-08 06:50:17:496 Child process 1 finished: 11148
+2024-11-08 06:50:17:496 Child process 2 started: 11148
+2024-11-08 06:50:17:634 Main process ID: 11148 Counter: 323
+2024-11-08 06:50:18:649 Main process ID: 11148 Counter: 326
+2024-11-08 06:50:19:503 Child process 2 finished: 11148
+2024-11-08 06:50:19:658 Main process ID: 11148 Counter: 164
+2024-11-08 06:50:20:505 Child process 1 started: 11148
+2024-11-08 06:50:20:505 Child process 1 finished: 11148
+2024-11-08 06:50:20:505 Child process 2 started: 11148
+2024-11-08 06:50:20:664 Main process ID: 11148 Counter: 354
+2024-11-08 06:50:21:664 Main process ID: 11148 Counter: 357
+2024-11-08 06:50:22:514 Child process 2 finished: 11148
+2024-11-08 06:50:22:672 Main process ID: 11148 Counter: 181
+2024-11-08 06:50:23:520 Child process 1 started: 11148
+2024-11-08 06:50:23:520 Child process 1 finished: 11148
+2024-11-08 06:50:23:520 Child process 2 started: 11148
+2024-11-08 06:50:23:679 Main process ID: 11148 Counter: 387
+2024-11-08 06:50:24:684 Main process ID: 11148 Counter: 390
+2024-11-08 06:50:25:524 Child process 2 finished: 11148
+2024-11-08 06:50:25:704 Main process ID: 11148 Counter: 196
+2024-11-08 06:50:26:525 Child process 1 started: 11148
+2024-11-08 06:50:26:525 Child process 1 finished: 11148
+2024-11-08 06:50:26:525 Child process 2 started: 11148
+2024-11-08 06:50:26:724 Main process ID: 11148 Counter: 418
+2024-11-08 06:50:27:744 Main process ID: 11148 Counter: 422
+2024-11-08 06:50:28:528 Child process 2 finished: 11148
+2024-11-08 06:50:28:745 Main process ID: 11148 Counter: 213
+2024-11-08 06:50:29:526 Child process 1 started: 11148
+2024-11-08 06:50:29:526 Child process 1 finished: 11148
+2024-11-08 06:50:29:526 Child process 2 started: 11148
+2024-11-08 06:50:29:750 Main process ID: 11148 Counter: 451
+2024-11-08 06:50:30:764 Main process ID: 11148 Counter: 454
+2024-11-08 06:50:31:544 Child process 2 finished: 11148
+2024-11-08 06:50:31:764 Main process ID: 11148 Counter: 228
+2024-11-08 06:50:32:545 Child process 1 started: 11148
+2024-11-08 06:50:32:545 Child process 1 finished: 11148
+2024-11-08 06:50:32:545 Child process 2 started: 11148
+2024-11-08 06:50:32:784 Main process ID: 11148 Counter: 483
+2024-11-08 06:50:33:794 Main process ID: 11148 Counter: 486
+2024-11-08 06:50:34:550 Child process 2 finished: 11148
+2024-11-08 06:50:34:801 Main process ID: 11148 Counter: 245
+2024-11-08 06:50:35:550 Child process 1 started: 11148
+2024-11-08 06:50:35:550 Child process 1 finished: 11148
+2024-11-08 06:50:35:550 Child process 2 started: 11148
+2024-11-08 06:50:35:814 Main process ID: 11148 Counter: 515
+2024-11-08 06:50:36:824 Main process ID: 11148 Counter: 519
+2024-11-08 06:50:37:564 Child process 2 finished: 11148
+2024-11-08 06:50:37:844 Main process ID: 11148 Counter: 261
+2024-11-08 06:50:38:564 Child process 1 started: 11148
+2024-11-08 06:50:38:564 Child process 1 finished: 11148
+2024-11-08 06:50:38:565 Child process 2 started: 11148
+2024-11-08 06:50:38:844 Main process ID: 11148 Counter: 547
+2024-11-08 06:50:39:864 Main process ID: 11148 Counter: 550
+2024-11-08 06:50:40:565 Child process 2 finished: 11148
+2024-11-08 06:50:40:866 Main process ID: 11148 Counter: 277
+2024-11-08 06:50:41:574 Child process 1 started: 11148
+2024-11-08 06:50:41:574 Child process 1 finished: 11148
+2024-11-08 06:50:41:574 Child process 2 started: 11148
+2024-11-08 06:50:41:871 Main process ID: 11148 Counter: 579
+2024-11-08 06:50:42:880 Main process ID: 11148 Counter: 583
+2024-11-08 06:50:43:586 Child process 2 finished: 11148
+2024-11-08 06:50:43:883 Main process ID: 11148 Counter: 293
+2024-11-08 06:50:44:579 Child process 1 started: 11148
+2024-11-08 06:50:44:579 Child process 1 finished: 11148
+2024-11-08 06:50:44:580 Child process 2 started: 11148
+2024-11-08 06:50:44:891 Main process ID: 11148 Counter: 611
+2024-11-08 06:50:45:895 Main process ID: 11148 Counter: 614
+2024-11-08 06:50:46:584 Child process 2 finished: 11148
+2024-11-08 06:50:46:904 Main process ID: 11148 Counter: 309
+2024-11-08 06:50:47:585 Child process 1 started: 11148
+2024-11-08 06:50:47:585 Child process 1 finished: 11148
+2024-11-08 06:50:47:585 Child process 2 started: 11148
+2024-11-08 06:50:47:923 Main process ID: 11148 Counter: 645
+2024-11-08 06:50:48:944 Main process ID: 11148 Counter: 648
+2024-11-08 06:50:49:584 Child process 2 finished: 11148
+2024-11-08 06:50:49:964 Main process ID: 11148 Counter: 326
+2024-11-08 06:50:50:585 Child process 1 started: 11148
+2024-11-08 06:50:50:585 Child process 1 finished: 11148
+2024-11-08 06:50:50:585 Child process 2 started: 11148
+2024-11-08 06:50:50:984 Main process ID: 11148 Counter: 677
+2024-11-08 06:50:52:004 Main process ID: 11148 Counter: 680
+2024-11-08 06:50:52:604 Child process 2 finished: 11148
+2024-11-08 06:50:53:024 Main process ID: 11148 Counter: 342
+2024-11-08 06:50:53:604 Child process 1 started: 11148
+2024-11-08 06:50:53:604 Child process 2 started: 11148
+2024-11-08 06:50:53:605 Child process 1 finished: 11148
+2024-11-08 06:50:54:024 Main process ID: 11148 Counter: 710
+2024-11-08 06:50:55:044 Main process ID: 11148 Counter: 713
+2024-11-08 06:50:55:624 Child process 2 finished: 11148
+2024-11-08 06:50:56:064 Main process ID: 11148 Counter: 358
+2024-11-08 06:50:56:625 Child process 1 started: 11148
+2024-11-08 06:50:56:625 Child process 1 finished: 11148
+2024-11-08 06:50:56:625 Child process 2 started: 11148
+2024-11-08 06:50:57:084 Main process ID: 11148 Counter: 741
+2024-11-08 06:50:58:096 Main process ID: 11148 Counter: 745
+2024-11-08 06:50:58:625 Child process 2 finished: 11148
+2024-11-08 06:50:59:106 Main process ID: 11148 Counter: 375
+2024-11-08 06:50:59:635 Child process 1 started: 11148
+2024-11-08 06:50:59:635 Child process 1 finished: 11148
+2024-11-08 06:50:59:635 Child process 2 started: 11148
+2024-11-08 06:51:00:124 Main process ID: 11148 Counter: 774
+2024-11-08 06:51:01:144 Main process ID: 11148 Counter: 777
+2024-11-08 06:51:01:644 Child process 2 finished: 11148
+2024-11-08 06:51:02:164 Main process ID: 11148 Counter: 390
+2024-11-08 06:51:02:644 Child process 1 started: 11148
+2024-11-08 06:51:02:645 Child process 1 finished: 11148
+2024-11-08 06:51:02:645 Child process 2 started: 11148
+2024-11-08 06:51:03:184 Main process ID: 11148 Counter: 805
+2024-11-08 06:51:04:204 Main process ID: 11148 Counter: 809
+2024-11-08 06:51:04:664 Child process 2 finished: 11148
+2024-11-08 06:51:05:204 Main process ID: 11148 Counter: 407
+2024-11-08 06:51:05:645 Child process 1 started: 11148
+2024-11-08 06:51:05:645 Child process 1 finished: 11148
+2024-11-08 06:51:05:645 Child process 2 started: 11148
+2024-11-08 06:51:06:219 Main process ID: 11148 Counter: 838
+2024-11-08 06:51:07:219 Main process ID: 11148 Counter: 841
+2024-11-08 06:51:07:656 Child process 2 finished: 11148
+2024-11-08 06:51:08:233 Main process ID: 11148 Counter: 423
+2024-11-08 06:51:08:653 Child process 1 started: 11148
+2024-11-08 06:51:08:654 Child process 1 finished: 11148
+2024-11-08 06:51:08:654 Child process 2 started: 11148
+2024-11-08 06:51:09:246 Main process ID: 11148 Counter: 870
+2024-11-08 06:51:10:256 Main process ID: 11148 Counter: 873
+2024-11-08 06:51:10:662 Child process 2 finished: 11148
+2024-11-08 06:51:11:270 Main process ID: 11148 Counter: 439
+2024-11-08 06:51:11:660 Child process 1 started: 11148
+2024-11-08 06:51:11:661 Child process 1 finished: 11148
+2024-11-08 06:51:11:661 Child process 2 started: 11148
+2024-11-08 06:51:12:284 Main process ID: 11148 Counter: 902
+2024-11-08 06:51:13:304 Main process ID: 11148 Counter: 906
+2024-11-08 06:51:13:664 Child process 2 finished: 11148
+2024-11-08 06:51:14:324 Main process ID: 11148 Counter: 455
+2024-11-08 06:51:14:664 Child process 1 started: 11148
+2024-11-08 06:51:14:665 Child process 1 finished: 11148
+2024-11-08 06:51:14:665 Child process 2 started: 11148
+2024-11-08 06:51:15:344 Main process ID: 11148 Counter: 934
+2024-11-08 06:51:16:345 Main process ID: 11148 Counter: 937
+2024-11-08 06:51:16:673 Child process 2 finished: 11148
+2024-11-08 06:51:17:350 Main process ID: 11148 Counter: 471
+2024-11-08 06:51:17:677 Child process 1 started: 11148
+2024-11-08 06:51:17:677 Child process 1 finished: 11148
+2024-11-08 06:51:17:677 Child process 2 started: 11148
+2024-11-08 06:51:18:364 Main process ID: 11148 Counter: 967
+2024-11-08 06:51:19:377 Main process ID: 11148 Counter: 970
+2024-11-08 06:51:19:691 Child process 2 finished: 11148
+2024-11-08 06:51:20:384 Main process ID: 11148 Counter: 487
+2024-11-08 06:51:20:684 Child process 1 started: 11148
+2024-11-08 06:51:20:684 Child process 1 finished: 11148
+2024-11-08 06:51:20:685 Child process 2 started: 11148
+2024-11-08 06:51:21:404 Main process ID: 11148 Counter: 998
+2024-11-08 06:51:22:424 Main process ID: 11148 Counter: 1001
+2024-11-08 06:51:22:704 Child process 2 finished: 11148
+2024-11-08 06:51:23:434 Main process ID: 11148 Counter: 504
+2024-11-08 06:51:23:695 Child process 1 started: 11148
+2024-11-08 06:51:23:695 Child process 1 finished: 11148
+2024-11-08 06:51:23:695 Child process 2 started: 11148
+2024-11-08 06:51:24:448 Main process ID: 11148 Counter: 1031
+2024-11-08 06:51:25:460 Main process ID: 11148 Counter: 1034
+2024-11-08 06:51:25:710 Child process 2 finished: 11148
+2024-11-08 06:51:26:475 Main process ID: 11148 Counter: 519
+2024-11-08 06:51:26:696 Child process 1 started: 11148
+2024-11-08 06:51:26:696 Child process 1 finished: 11148
+2024-11-08 06:51:26:696 Child process 2 started: 11148
+2024-11-08 06:51:27:488 Main process ID: 11148 Counter: 1063
+2024-11-08 06:51:28:504 Main process ID: 11148 Counter: 1066
+2024-11-08 06:51:28:704 Child process 2 finished: 11148
+2024-11-08 06:51:29:524 Main process ID: 11148 Counter: 536
+2024-11-08 06:51:29:705 Child process 1 started: 11148
+2024-11-08 06:51:29:705 Child process 1 finished: 11148
+2024-11-08 06:51:29:705 Child process 2 started: 11148
+2024-11-08 06:51:30:544 Main process ID: 11148 Counter: 1096
+2024-11-08 06:51:31:544 Main process ID: 11148 Counter: 1099
+2024-11-08 06:51:31:704 Child process 2 finished: 11148
+2024-11-08 06:51:32:549 Main process ID: 11148 Counter: 553
+2024-11-08 06:51:32:706 Child process 1 started: 11148
+2024-11-08 06:51:32:706 Child process 1 finished: 11148
+2024-11-08 06:51:32:706 Child process 2 started: 11148
+2024-11-08 06:51:33:562 Main process ID: 11148 Counter: 1129
+2024-11-08 06:51:34:574 Main process ID: 11148 Counter: 1132
+2024-11-08 06:51:34:715 Child process 2 finished: 11148
+2024-11-08 06:51:35:574 Main process ID: 11148 Counter: 568
+2024-11-08 06:51:35:715 Child process 1 started: 11148
+2024-11-08 06:51:35:716 Child process 1 finished: 11148
+2024-11-08 06:51:35:716 Child process 2 started: 11148
+2024-11-08 06:51:36:587 Main process ID: 11148 Counter: 1160
+2024-11-08 06:51:37:590 Main process ID: 11148 Counter: 1164
+2024-11-08 06:51:37:721 Child process 2 finished: 11148
+2024-11-08 06:51:38:605 Main process ID: 11148 Counter: 585
+2024-11-08 06:51:38:728 Child process 1 started: 11148
+2024-11-08 06:51:38:728 Child process 1 finished: 11148
+2024-11-08 06:51:38:728 Child process 2 started: 11148
+2024-11-08 06:51:39:615 Main process ID: 11148 Counter: 1193
+2024-11-08 06:51:40:623 Main process ID: 11148 Counter: 1196
+2024-11-08 06:51:40:743 Child process 2 finished: 11148
+2024-11-08 06:51:41:643 Main process ID: 11148 Counter: 600
+2024-11-08 06:51:41:743 Child process 2 started: 11148
+2024-11-08 06:51:41:744 Child process 1 started: 11148
+2024-11-08 06:51:41:744 Child process 1 finished: 11148
+2024-11-08 06:51:42:656 Main process ID: 11148 Counter: 1215
+2024-11-08 06:51:43:670 Main process ID: 11148 Counter: 1218
+2024-11-08 06:51:43:747 Child process 2 finished: 11148
+2024-11-08 06:51:44:681 Main process ID: 11148 Counter: 612
+2024-11-08 06:51:44:744 Child process 1 started: 11148
+2024-11-08 06:51:44:744 Child process 1 finished: 11148
+2024-11-08 06:51:44:744 Child process 2 started: 11148
+2024-11-08 06:51:45:694 Main process ID: 11148 Counter: 1247
+2024-11-08 06:51:46:703 Main process ID: 11148 Counter: 1251
+2024-11-08 06:51:46:763 Child process 2 finished: 11148
+2024-11-08 06:51:47:723 Main process ID: 11148 Counter: 628
+2024-11-08 06:51:47:763 Child process 1 started: 11148
+2024-11-08 06:51:47:763 Child process 1 finished: 11148
+2024-11-08 06:51:47:764 Child process 2 started: 11148
+2024-11-08 06:51:48:723 Main process ID: 11148 Counter: 1279
+2024-11-08 06:51:49:743 Main process ID: 11148 Counter: 1282
+2024-11-08 06:51:49:763 Child process 2 finished: 11148
+2024-11-08 06:51:50:752 Main process ID: 11148 Counter: 644
+2024-11-08 06:51:50:767 Child process 1 started: 11148
+2024-11-08 06:51:50:767 Child process 1 finished: 11148
+2024-11-08 06:51:50:767 Child process 2 started: 11148
+2024-11-08 06:51:51:766 Main process ID: 11148 Counter: 1312
+2024-11-08 06:51:52:779 Main process ID: 11148 Counter: 657
+2024-11-08 06:51:52:779 Child process 2 finished: 11148
+2024-11-08 06:51:53:777 Child process 1 started: 11148
+2024-11-08 06:51:53:777 Child process 2 started: 11148
+2024-11-08 06:51:53:777 Child process 1 finished: 11148
+2024-11-08 06:51:53:792 Main process ID: 11148 Counter: 1340
+2024-11-08 06:51:54:793 Main process ID: 11148 Counter: 1343
+2024-11-08 06:51:55:793 Main process ID: 11148 Counter: 1346
+2024-11-08 06:51:55:793 Child process 2 finished: 11148
+2024-11-08 06:51:56:790 Child process 1 started: 11148
+2024-11-08 06:51:56:790 Child process 1 finished: 11148
+2024-11-08 06:51:56:790 Child process 2 started: 11148
+2024-11-08 06:51:56:805 Main process ID: 11148 Counter: 1374
+2024-11-08 06:51:57:820 Main process ID: 11148 Counter: 1377
+2024-11-08 06:51:58:803 Child process 2 finished: 11148
+2024-11-08 06:51:58:835 Main process ID: 11148 Counter: 690
+2024-11-08 06:51:59:801 Child process 1 started: 11148
+2024-11-08 06:51:59:801 Child process 1 finished: 11148
+2024-11-08 06:51:59:801 Child process 2 started: 11148
+2024-11-08 06:51:59:847 Main process ID: 11148 Counter: 1406
+2024-11-08 06:52:00:851 Main process ID: 11148 Counter: 1410
+2024-11-08 06:52:01:809 Child process 2 finished: 11148
+2024-11-08 06:52:01:855 Main process ID: 11148 Counter: 706
+2024-11-08 06:52:02:804 Child process 1 started: 11148
+2024-11-08 06:52:02:804 Child process 1 finished: 11148
+2024-11-08 06:52:02:804 Child process 2 started: 11148
+2024-11-08 06:52:02:860 Main process ID: 11148 Counter: 1438
+2024-11-08 06:52:03:861 Main process ID: 11148 Counter: 1441
+2024-11-08 06:52:04:823 Child process 2 finished: 11148
+2024-11-08 06:52:04:861 Main process ID: 11148 Counter: 722
+2024-11-08 06:52:05:809 Child process 2 started: 11148
+2024-11-08 06:52:05:809 Child process 1 started: 11148
+2024-11-08 06:52:05:809 Child process 1 finished: 11148
+2024-11-08 06:52:05:871 Main process ID: 11148 Counter: 1461
+2024-11-08 06:52:06:883 Main process ID: 11148 Counter: 1464
+2024-11-08 06:52:07:823 Child process 2 finished: 11148
+2024-11-08 06:52:07:903 Main process ID: 11148 Counter: 733
+2024-11-08 06:52:08:819 Child process 1 started: 11148
+2024-11-08 06:52:08:819 Child process 1 finished: 11148
+2024-11-08 06:52:08:819 Child process 2 started: 11148
+2024-11-08 06:52:08:913 Main process ID: 11148 Counter: 1492
+2024-11-08 06:52:09:921 Main process ID: 11148 Counter: 1495
